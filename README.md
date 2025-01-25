@@ -17,6 +17,5 @@ I'm diving into the exciting world of **Cloud Computing**, **DevOps**, and **Net
 ![Python](https://img.shields.io/badge/Python-%233B8DB3.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📫 **Connect with Me**
-- 📧 Email: zulfianarahmi4@gmail.com  
-- 🌐 GitHub: [github.com/zulfianarahmi](https://github.com/zulfianarahmi)  
+- 📧 Email: zulfianarahmi4@gmail.com   
 - 💬 LinkedIn: [https://www.linkedin.com/in/zulfiana-rahmi/]  
