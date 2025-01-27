@@ -18,4 +18,5 @@ I'm diving into the exciting world of **Cloud Computing**, **DevOps**, and **Net
 
 ### 📫 **Connect with Me**
 - 📧 Email: zulfianarahmi4@gmail.com   
-- 💬 LinkedIn: [https://www.linkedin.com/in/zulfiana-rahmi/]  
+- 💬 LinkedIn: [https://www.linkedin.com/in/zulfiana-rahmi/]
+- Medium : [https://medium.com/@zulfianarahmi4]
