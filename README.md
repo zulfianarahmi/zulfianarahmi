@@ -2,7 +2,7 @@
 
 # Hi there, I'm Zulfiana Rahmi
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;Passionate+about+Security,+Linux,+DevOps&center=true&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;Passionate+about+Security,+Linux,+Cloud&center=true&size=22)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-I'm a cybersecurity enthusiast focused on developing and securing efficient, scalable systems. My interests span offensive & defensive security, system hardening, and cloud security.
+Currently learning cybersecurity, CTF, and focusing on blue team operations. Passionate about developing and securing efficient, scalable systems.
 
-**Focus:** Cybersecurity, System Administration, Cloud Computing, Network Security
+**Focus:** Cybersecurity, System Administration, Cloud Computing
 
 </div>
 
@@ -41,26 +41,8 @@ I'm a cybersecurity enthusiast focused on developing and securing efficient, sca
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
-
----
-
-## GitHub Stats
-
-<!-- Uncomment untuk menampilkan GitHub stats -->
-<!--
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
--->
-
-<!-- Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 ---
 
@@ -80,10 +62,10 @@ I'm a cybersecurity enthusiast focused on developing and securing efficient, sca
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulfiana-rahmin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulfiana-rahmi/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zulfianarahmi4)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zulfianarahmi)
 
 </div>
 
@@ -91,7 +73,7 @@ I'm a cybersecurity enthusiast focused on developing and securing efficient, sca
 
 <div align="center">
 
-### 💡 Fun Fact
+### Fun Fact
 
 *Security is not just about building walls, but understanding how to breach them ethically to build better defenses.*
 
